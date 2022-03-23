@@ -1,5 +1,5 @@
 - 👋 Olá! Eu sou a Ayla Silva 
-- 👀 Estou me formando em Desenvolvimento Front End 
+- 👀 Me formei em Desenvolvimento Front End 
 - 📫 Você pode me contatar no minha rede https://www.linkedin.com/in/ayla-silva-dos-santos-0977a9223/ ou no meu email : aylasilva1524@outlook.com
 
 
