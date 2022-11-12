@@ -1,7 +1,5 @@
 - 👋 Olá! Eu sou a Ayla Silva 
 - 👀 Me formei em Desenvolvimento Front End 
-- 📫 Você pode me contatar no minha rede https://www.linkedin.com/in/ayla-silva-dos-santos-0977a9223/ ou no meu email : aylasilva1524@outlook.com
-
 
 Eu sou uma Desenvolvedora Web Front-End  , estou amando me envolver nesse mundo tecnológico , 
 aprendir várias tecnologias como : 
@@ -47,7 +45,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://instagram.com/Ayla1524" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:aylasilva1524@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ayla-silva-dos-santos-0977a9223/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Ayla1524/Ayla1524/blob/output/github-contribution-grid-snake.svg)
 
