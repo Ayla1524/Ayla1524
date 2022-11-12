@@ -1,7 +1,6 @@
-- 👋 Olá! Eu sou a Ayla Silva 
-- 👀 Me formei em Desenvolvimento Front End 
+- 👋 Olá! Eu sou a Ayla Silva
 
-Eu sou uma Desenvolvedora Web Front-End  , estou amando me envolver nesse mundo tecnológico , 
+Eu sou uma Desenvolvedora Web Front-End, estou amando me envolver nesse mundo tecnológico , 
 aprendir várias tecnologias como : 
 JavaScript ,
 HTML, 
